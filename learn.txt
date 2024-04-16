@@ -1,0 +1,9 @@
+git init : tạo git trên local project
+git commit -m "your_commit" : Tạo commit
+git status : kiểm tra status của project
+git log : kiểm tra các commit
+git add : thêm vào commit 
+git branch :
+git push -u origin : push lên repo
+git checkout -b "name_branch" : tạo một branch mới
+git restore --staged "name_file" : đưa file về trang thái đang làm việc
